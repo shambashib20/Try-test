@@ -1,0 +1,259 @@
+1. What Is a Statement of Work?
+The SoW is the document that captures and defines all aspects of your project. You’ll note the activities, deliverables and the timetable for the project. It’s an extremely detailed document as it will lay the groundwork for the project plan.
+
+It’s one of the first documents you’ll create to lay out the entire landscape of the project before you plan and execute. Because of the great amount of detail required, the prospect of writing one can be daunting. Therefore, let’s break it down into more digestible parts.
+
+What Makes Up a Statement of Work?
+There are as many parts in a statement of work as there are in a project. If you start by focusing on the parts, you can work yourself up to the whole. For a full understanding of a SoW, first note the major aspects of the project it addresses.
+
+
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+
+2. What is SDLC?
+SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
+
+The following figure is a graphical representation of the various stages of a typical SDLC.
+
+Stages of SDLC
+A typical Software Development Life Cycle consists of the following stages −
+
+Stage 1: Planning and Requirement Analysis
+Requirement analysis is the most important and fundamental stage in SDLC. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry. This information is then used to plan the basic project approach and to conduct product feasibility study in the economical, operational and technical areas.
+
+Planning for the quality assurance requirements and identification of the risks associated with the project is also done in the planning stage. The outcome of the technical feasibility study is to define the various technical approaches that can be followed to implement the project successfully with minimum risks.
+
+Stage 2: Defining Requirements
+Once the requirement analysis is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
+
+Stage 3: Designing the Product Architecture
+SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, usually more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
+
+This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time constraints, the best design approach is selected for the product.
+
+A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.
+
+Stage 4: Building or Developing the Product
+In this stage of SDLC the actual development starts and the product is built. The programming code is generated as per DDS during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
+
+Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding. The programming language is chosen with respect to the type of software being developed.
+
+Stage 5: Testing the Product
+This stage is usually a subset of all the stages as in the modern SDLC models, the testing activities are mostly involved in all the stages of SDLC. However, this stage refers to the testing only stage of the product where product defects are reported, tracked, fixed and retested, until the product reaches the quality standards defined in the SRS.
+
+Stage 6: Deployment in the Market and Maintenance
+Once the product is tested and ready to be deployed it is released formally in the appropriate market. Sometimes product deployment happens in stages as per the business strategy of that organization. The product may first be released in a limited segment and tested in the real business environment (UAT- User acceptance testing).
+
+Then based on the feedback, the product may be released as it is or with suggested enhancements in the targeting market segment. After the product is released in the market, its maintenance is done for the existing customer base.
+
+SDLC Models
+There are various software development life cycle models defined and designed which are followed during the software development process. These models are also referred as Software Development Process Models". Each process model follows a Series of steps unique to its type to ensure success in the process of software development.
+
+Following are the most important and popular SDLC models followed in the industry −
+
+Waterfall Model
+Iterative Model
+Spiral Model
+V-Model
+Big Bang Model
+Other related methodologies are Agile Model, RAD Model, Rapid Application Development and Prototyping Models.
+
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+
+
+
+
+3. What is included in a BRD?
+A business requirements document describes the business solution for a project (i.e., what a new or updated product should do), including the user's needs and expectations, the purpose behind this solution, and any high-level constraints that could impact a successful deployment.
+
+
+
+
+
+
+
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
+
+
+
+4. Functional Requirements Document
+Advertisements
+
+ 
+The Functional Requirements Document (FRD) is a formal statement of an application’s functional requirements. It serves the same purpose as a contract. Here, the developers agree to provide the capabilities specified. The client agrees to find the product satisfactory if it provides the capabilities specified in the FRD.
+
+Functional requirements capture the intended behavior of the system. This behavior may be expressed as services, tasks or functions the system is required to perform. The document should be tailored to fit a particular project’s need. They define things such as system calculations, data manipulation and processing, user interface and interaction with the application.
+
+The Functional Requirements Document (FRD) has the following characteristics −
+
+It demonstrates that the application provides value in terms of the business objectives and business processes in the next few years.
+
+It contains a complete set of requirements for the application. It leaves no room for anyone to assume anything which is not stated in the FRD.
+
+It is solution independent. The ERD is a statement of what the application is to do— not of how it works. The FRD does not commit the developers to a design. For that reason, any reference to the use of a specific technology is entirely inappropriate in an FRD.
+
+The functional requirement should include the following −
+
+Descriptions of data to be entered into the system
+
+Descriptions of operations performed by each screen
+
+Descriptions of work-flows performed by the system
+
+Descriptions of system reports or other outputs
+
+Who can enter the data into the system?
+
+How the system meets applicable regulatory requirements?
+
+The functional specification is designed to be read by a general audience. Readers should understand the system, but no technical knowledge should be required to understand this document.
+
+Functional Requirements Deliverables
+A Business Requirements Document (BRD) consists of −
+
+Functional Requirements − A document containing detailed requirements for the system being developed. These requirements define the functional features and capabilities that a system must possess. Be sure that any assumptions and constraints identified during the Business Case are still accurate and up to date.
+
+Business Process Model − A model of the current state of the process ("as is" model) or a concept of what the process should become ("to be" model)
+
+System Context Diagram − A Context Diagram shows the system boundaries, external and internal entities that interact with the system, and the relevant data flows between these external and internal entities.
+
+Flow Diagrams (as-is or to-be) − Diagrams graphically depict the sequence of operations or the movement of data for a business process. One or more flow diagrams are included depending on the complexity of the model.
+
+Business Rules and Data Requirements − Business rules define or constrain some aspects of the business and are used to define data constraints, default values, value ranges, cardinality, data types, calculations, exceptions, required elements and the relational integrity of the data.
+
+Data Models − Entity Relationship Diagrams, Entity Descriptions, Class Diagrams
+
+Conceptual Model − High level display of different entities for a business function and how they relate to one another.
+
+Logical Model − Illustrates the specific entities, attributes and relationships involved in a business function and represents all the definitions, characteristics, and relationships of data in a business, technical, or conceptual environment.
+
+Data Dictionary and Glossary − A collection of detailed information on the data elements, fields, tables and other entities that comprise the data model underlying a database or similar data management system.
+
+Stakeholder Map − Identifies all stakeholders who are affected by the proposed change and their influence/authority level for requirements. This document is developed in the origination phase of the Project Management Methodology (PMM) and is owned by the Project Manager but needs to be updated by the project team as new/changed Stakeholders are identified throughout the process.
+
+Requirements Traceability Matrix − A table that illustrates logical links between individual functional requirements and other types of system artifacts, including other Functional Requirements, Use-cases/User Stories, Architecture and Design Elements, Code Modules, Test Cases, and Business Rules.
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+5. What is Software Requirement Specification - [SRS]?
+A software requirements specification (SRS) is a document that captures complete description about how the system is expected to perform. It is usually signed off at the end of requirements engineering phase.
+
+Qualities of SRS:
+Correct
+
+Unambiguous
+
+Complete
+
+Consistent
+
+Ranked for importance and/or stability
+
+Verifiable
+
+Modifiable
+
+Traceable
+
+Types of Requirements:
+The below diagram depicts the various types of requirements that are captured during SRS
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+
+
+6. What is a flowchart?
+A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes. If we consider all the various forms of flowcharts, they are one of the most common diagrams on the planet, used by both technical and non-technical people in numerous fields. Flowcharts are sometimes called by more specialized names such as Process Flowchart, Process Map, Functional Flowchart, Business Process Mapping, Business Process Modeling and Notation (BPMN),  or Process Flow Diagram (PFD). They are related to other popular diagrams, such as Data Flow Diagrams (DFDs) and Unified Modeling Language (UML) Activity Diagrams.
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+7. Wireframing User Flow with Wireflows
+A wireflow is a hybrid design document that combines wireframing with flow diagramming. They are essentially wireframes showing user and system flow.
+
+Simply adding arrows and annotation between wireframes on a single canvas will indicate the paths a user may take while using your product. These small changes to your wireframes will communicate the visual changes in the interface while simultaneously describing state changes and sequences in the user interaction.
+
+Wireflow example
+Example of a wireflow
+In this article we’ll show you how to use this technique in your design process. First we’ll introduce the different types of design artifacts that product designers use for designing interfaces and diagramming flow. Lastly, we’ll show why wireflows may be the most suitable tool for communicating your interface and interaction design at the same time.
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+8. Requirement Gathering Techniques
+ 
+Techniques describe how tasks are performed under specific circumstances. A task may have none or one or more related techniques. A technique should be related to at least one task.
+
+The following are some of the well-known requirements gathering techniques −
+
+Brainstorming
+Brainstorming is used in requirement gathering to get as many ideas as possible from group of people. Generally used to identify possible solutions to problems, and clarify details of opportunities.
+
+Document Analysis
+Reviewing the documentation of an existing system can help when creating AS–IS process document, as well as driving gap analysis for scoping of migration projects. In an ideal world, we would even be reviewing the requirements that drove creation of the existing system – a starting point for documenting current requirements. Nuggets of information are often buried in existing documents that help us ask questions as part of validating requirement completeness.
+
+Focus Group
+A focus group is a gathering of people who are representative of the users or customers of a product to get feedback. The feedback can be gathered about needs/opportunities/ problems to identify requirements, or can be gathered to validate and refine already elicited requirements. This form of market research is distinct from brainstorming in that it is a managed process with specific participants.
+
+Interface analysis
+Interfaces for a software product can be human or machine. Integration with external systems and devices is just another interface. User centric design approaches are very effective at making sure that we create usable software. Interface analysis – reviewing the touch points with other external systems is important to make sure we don’t overlook requirements that aren’t immediately visible to users.
+
+Interview
+Interviews of stakeholders and users are critical to creating the great software. Without understanding the goals and expectations of the users and stakeholders, we are very unlikely to satisfy them. We also have to recognize the perspective of each interviewee, so that, we can properly weigh and address their inputs. Listening is the skill that helps a great analyst to get more value from an interview than an average analyst.
+
+Observation
+By observing users, an analyst can identify a process flow, steps, pain points and opportunities for improvement. Observations can be passive or active (asking questions while observing). Passive observation is better for getting feedback on a prototype (to refine requirements), where active observation is more effective at getting an understanding of an existing business process. Either approach can be used.
+
+Prototyping
+Prototyping is a relatively modern technique for gathering requirements. In this approach, you gather preliminary requirements that you use to build an initial version of the solution - a prototype. You show this to the client, who then gives you additional requirements. You change the application and cycle around with the client again. This repetitive process continues until the product meets the critical mass of business needs or for an agreed number of iterations.
+
+Requirement Workshops
+Workshops can be very effective for gathering requirements. More structured than a brainstorming session, involved parties collaborate to document requirements. One way to capture the collaboration is with creation of domain-model artifacts (like static diagrams, activity diagrams). A workshop will be more effective with two analysts than with one.
+
+Reverse Engineering
+When a migration project does not have access to sufficient documentation of the existing system, reverse engineering will identify what the system does. It will not identify what the system should do, and will not identify when the system does the wrong thing.
+
+Survey/Questionnaire
+When collecting information from many people – too many to interview with budget and time constraints – a survey or questionnaire can be used. The survey can force users to select from choices, rate something (“Agree Strongly, agree…”), or have open ended questions allowing free-form responses. Survey design is hard – questions can bias the respondents
+
+
